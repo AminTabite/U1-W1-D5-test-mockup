@@ -1,0 +1,28 @@
+/* Your styles here */
+h1 {
+  font-size: 4em;
+  margin: 0.67em 0;
+}
+
+h2 {
+  font-size: 3em;
+  margin: 0.67em 0;
+}
+
+h3 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+p,
+a,
+li {
+  font-size: 1.5em;
+}
+
+.bodycenter {
+  margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    padding: 10px;
+    background-color: #e3a6a6;
+}
